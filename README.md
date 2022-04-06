@@ -8,6 +8,7 @@ If you are pulling data from an API, please put the data into a file in this rep
 
 THANK YOU FOR A GREAT SEMESTER! :)
 
+---
 
 ## SPECIAL INSTRUCTIONS FOR API USERS
 
