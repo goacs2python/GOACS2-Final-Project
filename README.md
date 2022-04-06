@@ -1,8 +1,15 @@
-# Module 8 Problem Set
+# FINAL PROJECT
 
-Please complete two problems from the Module 8 Problem Set.
+This repository is for all of the programs and files needed for your final project.
 
-## SPECIAL INSTRUCTIONS
+Include any program files or data files that are needed for your visualizations when submitting to this assignment.
+
+If you are pulling data from an API, please put the data into a file in this repository.
+
+THANK YOU FOR A GREAT SEMESTER! :)
+
+
+## SPECIAL INSTRUCTIONS FOR API USERS
 
 Add a file named `config.py` and store your API keys in variables within this file.
 
@@ -11,18 +18,10 @@ Add an `import config` to the top of your programs in order to use the API key. 
 
 When using the requests library, you might need to `pip install requests`. If your computer complains about permissions, try installing for the user using `python -m pip install -user requests` on Windows or `pip install --user requests` on Mac.
 
-
----
-
-### Instructions
-- Create a separate file for each program.
-- Name each file according to the name on the assignment page.
-- When you are finished, be sure to sync (commit and push) your code to GitHub
-
 ---
 
 ### Tips
-- Start the problem set early!
+- Start the project early!
     - The earlier you start, the more time you have to get help if you run into any 
     problems.
 - Test your code. 
