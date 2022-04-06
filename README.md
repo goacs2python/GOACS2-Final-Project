@@ -11,7 +11,7 @@ THANK YOU FOR A GREAT SEMESTER! :)
 
 ## SPECIAL INSTRUCTIONS FOR API USERS
 
-Add a file named `config.py` and store your API keys in variables within this file.
+Add a file named `config.py` and store your API keys in variables within this file. `config.py` has already been added to the `.gitignore` file.
 
 Add an `import config` to the top of your programs in order to use the API key. This will prevent the API key from being published to the web. You can then use the API key in your file by accessing the variable inside the config module, for example `config.my_api_key`.
 
